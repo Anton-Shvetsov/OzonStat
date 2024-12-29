@@ -4,4 +4,4 @@ As far as Ozon Seller privides custom visualization only with subscription, it's
 2. Then, using this app ('ozon_stat_application.py'), select Your csv file (default name: 'orders.csv') and click 'Create plot'.
 3. Done!
 
-Demo result is available at 'demo_plot.html'
+Demo result is available at 'demo_plot.html' (download and open with browser).
