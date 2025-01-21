@@ -1,5 +1,7 @@
 # As far as Ozon Seller privides custom visualization only with subscription, it's a good idea to have an instrument to plot time-series data for free.
 
+# Financial analytics tool available at https://github.com/Anton-Shvetsov/Ozon_finance_analytics 
+
 # Version 5:
 Added features:
 - Exact product selection
